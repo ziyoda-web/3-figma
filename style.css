@@ -1,0 +1,155 @@
+.container{
+    width: 1300px;
+    height: 720px;
+    background-image: url(./img/bg\ with\ shoe\ edited\ in\ photoshop.png);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.nav{
+    color: white;
+    display: flex;
+}
+.nav-div{
+    display: flex;
+}
+.nav-div > h1{
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 6.045px;
+}
+.nav-div h1{
+    padding-left: 50px;
+    margin-top: 30px;
+}
+.nav-img > img{
+    padding-left: 20px;
+}
+.nav-imgs{
+    padding-top: 30px;
+    padding-left: 150px;
+}
+.nav-imgs > img{
+    padding-left: 20px;
+}
+.navbar > h3{
+    width: 126px;
+    height: 43.5px;
+    color: #E70000;
+    font-size: 36px;
+    font-weight: 400;
+}
+.navbar > p{
+    width: 288px;
+    height: 42px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 20.25px; /* 112.5% */
+    letter-spacing: 1.35px;
+}
+.button >h4{
+    color: #FFF;
+    width: 44.25px;
+    height: 14.25px;  
+    font-size: 12px;
+    font-weight: 400;
+
+}
+.button{
+    display: flex;
+    border-radius: 9.75px;
+    background: #EB0000;
+}
+.ul{
+    text-align: end;
+    padding-top: 280px;
+}
+.hdr-text{
+    display: flex;
+    margin-left: 800px; 
+}
+.hdr-text > h3{
+    width: 126px;
+    color: #E70000;
+    font-size: 36px;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.hdr-text > p{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 20.25px; /* 112.5% */
+    letter-spacing: 1.35px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.25px;
+    letter-spacing: 3.78px;
+}
+.rasm > h3{
+    color: white;
+    padding-left: 110px;
+}
+.rasm > img{
+    width: 150px;
+}
+.main-hdr{
+    display: flex;
+}
+.main-bttn button{
+    color: #000;
+    font-size: 13px;
+    font-weight: 800;
+    height: 48.75px;
+    padding: 15px 22.5px;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+.main-bttn{
+    padding-top: 70px;
+}
+.main-bttn{
+    padding-left: 42px;
+}
+.main-text button{
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 800;
+}
+.main-text button{
+    display: flex;
+    height: 48.75px;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+    background: #000;
+    border: 0.75px solid #FFF;
+}
+.main-text{
+    padding-top: 70px;
+}
+.main-text{
+    padding-left: 42px;
+}
+.text h1{
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 2.8px;
+}
+.text p{
+   color: #FFF;
+   font-size: 13px;
+   font-weight: 400;
+   line-height: 20.25px; 
+}
+.text{
+    padding-top: 25px;
+}
+.text{
+    padding-left: 127px;
+}
